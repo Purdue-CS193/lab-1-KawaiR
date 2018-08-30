@@ -10,12 +10,6 @@ Hop on over to the [Github website](https://github.com/). Once you're there, cli
 
 Once your Github account is all set up, you need to request access to the Github Student Developer pack. To do this, navigate to the [Student Developer Pack website](https://education.github.com/pack) and follow the steps there to request access. As soon as you have access to the student benefits, you can continue on with this lab.
 
-### Test
-
-# Test 2
-
-## Test 3
-
 ### Step 2 - Accept the Lab 1 Assignment
 In lecture and during lab we gave out a link to follow to access Lab 1 on Github. Follow this link and click the "Accept" button to begin importing the Lab 1 repository to your personal Github account. You should receive an email when this is complete (<1 minute).
 
